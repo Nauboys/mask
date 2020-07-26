@@ -10,6 +10,11 @@ FOLDER yolo-object-detection/yolo-coco/
 ADD yolo3.weights FROM http://www.mediafire.com/file/n12cmpb7s5dke0y/yolov3.weights/file
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 SOURCES
+
 https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606     ------ imageai
+
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/            ------ yolo3
+
