@@ -1,0 +1,734 @@
+[INFO] loading YOLO from disk...
+[INFO] YOLO took 1.494827 seconds
+person: 1.0000
+[INFO] YOLO took 1.044686 seconds
+person: 0.9958
+[INFO] YOLO took 1.050530 seconds
+person: 0.9994
+[INFO] YOLO took 1.124280 seconds
+person: 0.9880
+[INFO] YOLO took 1.094616 seconds
+person: 0.9753
+[INFO] YOLO took 1.110316 seconds
+person: 0.9946
+[INFO] YOLO took 1.072710 seconds
+person: 0.9980
+[INFO] YOLO took 1.095553 seconds
+person: 0.9999
+[INFO] YOLO took 1.076714 seconds
+person: 0.9979
+person: 0.9967
+[INFO] YOLO took 1.158991 seconds
+person: 0.9972
+[INFO] YOLO took 1.148935 seconds
+person: 0.9987
+[INFO] YOLO took 1.084418 seconds
+person: 0.9853
+[INFO] YOLO took 1.216314 seconds
+person: 0.9999
+[INFO] YOLO took 1.103867 seconds
+person: 0.9884
+[INFO] YOLO took 1.106286 seconds
+person: 0.9999
+[INFO] YOLO took 1.082806 seconds
+person: 0.9942
+[INFO] YOLO took 1.098938 seconds
+person: 0.9980
+[INFO] YOLO took 1.237452 seconds
+person: 0.9999
+[INFO] YOLO took 1.112434 seconds
+person: 0.9987
+[INFO] YOLO took 1.157950 seconds
+person: 0.9906
+[INFO] YOLO took 1.287222 seconds
+person: 0.9999
+[INFO] YOLO took 1.011475 seconds
+person: 0.9999
+[INFO] YOLO took 1.060498 seconds
+person: 0.9992
+[INFO] YOLO took 1.260837 seconds
+person: 0.9991
+[INFO] YOLO took 1.172750 seconds
+person: 0.9998
+[INFO] YOLO took 1.143996 seconds
+person: 0.9998
+[INFO] YOLO took 1.053668 seconds
+person: 0.9987
+person: 0.9977
+person: 0.9939
+person: 0.9922
+person: 0.9833
+[INFO] YOLO took 1.166358 seconds
+person: 0.9996
+[INFO] YOLO took 1.145078 seconds
+[INFO] YOLO took 1.063484 seconds
+person: 0.9978
+[INFO] YOLO took 1.218898 seconds
+person: 0.9872
+[INFO] YOLO took 1.107919 seconds
+person: 0.9997
+[INFO] YOLO took 1.089428 seconds
+person: 0.9986
+[INFO] YOLO took 1.122922 seconds
+person: 0.9996
+person: 0.7508
+[INFO] YOLO took 1.174657 seconds
+person: 0.9517
+[INFO] YOLO took 1.090765 seconds
+person: 0.9991
+[INFO] YOLO took 1.242023 seconds
+person: 0.9668
+[INFO] YOLO took 1.102673 seconds
+person: 0.9897
+[INFO] YOLO took 1.149575 seconds
+person: 0.9986
+[INFO] YOLO took 1.201433 seconds
+person: 0.9932
+[INFO] YOLO took 1.160237 seconds
+person: 0.9977
+[INFO] YOLO took 1.089492 seconds
+person: 0.9980
+[INFO] YOLO took 1.117946 seconds
+person: 0.9983
+[INFO] YOLO took 1.116055 seconds
+person: 0.9912
+person: 0.8119
+person: 0.7319
+[INFO] YOLO took 1.128606 seconds
+person: 0.9976
+[INFO] YOLO took 1.129839 seconds
+person: 0.9870
+cup: 0.5004
+[INFO] YOLO took 1.125616 seconds
+person: 0.9968
+person: 0.9740
+person: 0.9329
+[INFO] YOLO took 1.124018 seconds
+person: 0.9996
+[INFO] YOLO took 1.071356 seconds
+person: 0.9965
+[INFO] YOLO took 1.206489 seconds
+person: 0.9994
+[INFO] YOLO took 1.075081 seconds
+person: 0.9968
+[INFO] YOLO took 1.197928 seconds
+person: 1.0000
+[INFO] YOLO took 1.194259 seconds
+person: 0.9245
+[INFO] YOLO took 1.072877 seconds
+person: 0.9870
+cup: 0.5004
+[INFO] YOLO took 1.065450 seconds
+person: 0.9995
+[INFO] YOLO took 1.141453 seconds
+person: 0.9862
+[INFO] YOLO took 1.191975 seconds
+person: 0.9994
+[INFO] YOLO took 1.167789 seconds
+person: 0.9913
+[INFO] YOLO took 1.054317 seconds
+person: 0.9994
+[INFO] YOLO took 1.180046 seconds
+person: 0.9975
+[INFO] YOLO took 1.115146 seconds
+person: 0.9998
+[INFO] YOLO took 1.186853 seconds
+person: 0.9967
+[INFO] YOLO took 1.194813 seconds
+person: 0.9957
+[INFO] YOLO took 1.176628 seconds
+person: 0.9994
+[INFO] YOLO took 1.054954 seconds
+person: 0.9988
+[INFO] YOLO took 1.138015 seconds
+[INFO] YOLO took 1.188729 seconds
+person: 0.9959
+tie: 0.9856
+[INFO] YOLO took 1.075533 seconds
+person: 0.9995
+[INFO] YOLO took 1.174340 seconds
+person: 0.9996
+person: 0.7508
+[INFO] YOLO took 1.163168 seconds
+person: 0.9517
+[INFO] YOLO took 1.077039 seconds
+person: 0.9929
+cup: 0.5911
+[INFO] YOLO took 1.238934 seconds
+person: 0.9841
+[INFO] YOLO took 1.205261 seconds
+[INFO] YOLO took 1.077562 seconds
+person: 0.8732
+[INFO] YOLO took 1.183035 seconds
+person: 0.9751
+[INFO] YOLO took 1.182991 seconds
+person: 0.9999
+[INFO] YOLO took 1.071878 seconds
+person: 0.9996
+[INFO] YOLO took 1.120713 seconds
+person: 0.9983
+[INFO] YOLO took 1.138159 seconds
+person: 0.9999
+[INFO] YOLO took 1.138922 seconds
+person: 0.9996
+tie: 0.9645
+[INFO] YOLO took 1.125292 seconds
+person: 0.9957
+[INFO] YOLO took 1.191275 seconds
+person: 0.9392
+[INFO] YOLO took 1.134810 seconds
+person: 0.9807
+[INFO] YOLO took 1.063055 seconds
+person: 0.9996
+person: 0.8863
+person: 0.7296
+[INFO] YOLO took 1.241399 seconds
+person: 0.9918
+person: 0.9721
+[INFO] YOLO took 1.111913 seconds
+person: 0.9951
+[INFO] YOLO took 1.156474 seconds
+person: 0.9853
+[INFO] YOLO took 1.143218 seconds
+person: 0.9751
+[INFO] YOLO took 1.099957 seconds
+person: 0.9923
+[INFO] YOLO took 1.205515 seconds
+person: 0.9917
+[INFO] YOLO took 1.076414 seconds
+[INFO] YOLO took 1.143457 seconds
+person: 0.9969
+[INFO] YOLO took 1.235679 seconds
+person: 0.9998
+[INFO] YOLO took 1.053974 seconds
+person: 0.9996
+[INFO] YOLO took 1.217658 seconds
+person: 0.9751
+[INFO] YOLO took 1.199791 seconds
+person: 0.9994
+[INFO] YOLO took 1.097605 seconds
+person: 0.9913
+[INFO] YOLO took 1.235279 seconds
+person: 0.9994
+person: 0.9992
+person: 0.9957
+person: 0.9309
+[INFO] YOLO took 1.168742 seconds
+person: 0.9883
+[INFO] YOLO took 1.047409 seconds
+person: 0.9987
+[INFO] YOLO took 1.137414 seconds
+person: 0.9997
+[INFO] YOLO took 1.124483 seconds
+person: 0.9036
+[INFO] YOLO took 1.067998 seconds
+person: 0.9996
+[INFO] YOLO took 1.194685 seconds
+person: 0.9999
+[INFO] YOLO took 1.217968 seconds
+person: 0.9979
+person: 0.9967
+[INFO] YOLO took 1.187404 seconds
+person: 0.9733
+[INFO] YOLO took 1.097264 seconds
+person: 0.9990
+[INFO] YOLO took 1.244463 seconds
+person: 0.9901
+person: 0.9814
+person: 0.9717
+[INFO] YOLO took 1.185496 seconds
+person: 0.9918
+suitcase: 0.9306
+[INFO] YOLO took 1.065322 seconds
+person: 0.9984
+refrigerator: 0.7812
+handbag: 0.5247
+[INFO] YOLO took 1.198470 seconds
+person: 0.9999
+[INFO] YOLO took 1.101819 seconds
+person: 0.9981
+[INFO] YOLO took 1.176048 seconds
+person: 0.9993
+[INFO] YOLO took 1.076330 seconds
+person: 0.9985
+[INFO] YOLO took 1.230029 seconds
+person: 0.9974
+[INFO] YOLO took 1.076004 seconds
+person: 0.9866
+[INFO] YOLO took 1.140991 seconds
+person: 0.9622
+[INFO] YOLO took 1.067721 seconds
+person: 0.9967
+[INFO] YOLO took 1.193016 seconds
+person: 0.9980
+[INFO] YOLO took 1.107056 seconds
+person: 0.9957
+[INFO] YOLO took 1.119373 seconds
+person: 0.9989
+[INFO] YOLO took 1.059859 seconds
+person: 0.9991
+[INFO] YOLO took 1.075959 seconds
+person: 0.9883
+[INFO] YOLO took 1.222311 seconds
+person: 0.9987
+person: 0.9871
+[INFO] YOLO took 1.063032 seconds
+person: 0.9902
+cell phone: 0.8221
+[INFO] YOLO took 1.312372 seconds
+person: 0.9995
+[INFO] YOLO took 1.157115 seconds
+person: 0.9997
+[INFO] YOLO took 1.169615 seconds
+person: 0.9894
+[INFO] YOLO took 1.058239 seconds
+person: 0.9768
+[INFO] YOLO took 1.202495 seconds
+person: 0.9995
+bottle: 0.5456
+[INFO] YOLO took 1.131676 seconds
+person: 0.9974
+[INFO] YOLO took 1.166914 seconds
+person: 0.9998
+[INFO] YOLO took 1.249796 seconds
+person: 0.9799
+person: 0.9513
+diningtable: 0.5683
+[INFO] YOLO took 1.086289 seconds
+person: 0.9841
+[INFO] YOLO took 1.167344 seconds
+cell phone: 0.9890
+person: 0.9448
+[INFO] YOLO took 1.062285 seconds
+person: 0.9994
+person: 0.9949
+person: 0.9826
+person: 0.6356
+[INFO] YOLO took 1.206475 seconds
+person: 0.9975
+[INFO] YOLO took 1.206803 seconds
+person: 0.9976
+[INFO] YOLO took 1.100058 seconds
+person: 0.9999
+[INFO] YOLO took 1.141590 seconds
+person: 0.9912
+person: 0.8119
+person: 0.7319
+[INFO] YOLO took 1.145800 seconds
+[INFO] YOLO took 1.145150 seconds
+person: 0.9758
+[INFO] YOLO took 1.096053 seconds
+person: 0.9998
+car: 0.9791
+car: 0.7289
+person: 0.6702
+car: 0.5564
+[INFO] YOLO took 1.135944 seconds
+person: 0.9872
+[INFO] YOLO took 1.237952 seconds
+person: 0.9819
+[INFO] YOLO took 1.122676 seconds
+person: 0.9964
+person: 0.9921
+person: 0.9793
+person: 0.7476
+[INFO] YOLO took 1.108671 seconds
+person: 0.9801
+person: 0.9474
+person: 0.7976
+person: 0.7686
+[INFO] YOLO took 1.125457 seconds
+person: 0.9733
+[INFO] YOLO took 1.113619 seconds
+person: 0.9999
+[INFO] YOLO took 1.230674 seconds
+person: 0.9995
+[INFO] YOLO took 1.130278 seconds
+person: 0.9996
+car: 0.9953
+motorbike: 0.9738
+car: 0.8962
+person: 0.5554
+[INFO] YOLO took 1.114238 seconds
+person: 0.9996
+[INFO] YOLO took 1.106913 seconds
+person: 0.9989
+person: 0.6033
+[INFO] YOLO took 1.094546 seconds
+person: 0.9999
+[INFO] YOLO took 1.075707 seconds
+person: 0.9976
+person: 0.9923
+person: 0.9866
+person: 0.9843
+person: 0.9776
+person: 0.9673
+person: 0.9419
+person: 0.9163
+pottedplant: 0.9076
+diningtable: 0.8052
+person: 0.7418
+tvmonitor: 0.7119
+person: 0.5701
+[INFO] YOLO took 1.202737 seconds
+person: 1.0000
+[INFO] YOLO took 1.100226 seconds
+person: 0.9995
+suitcase: 0.9983
+suitcase: 0.9937
+person: 0.9925
+person: 0.9918
+person: 0.8961
+[INFO] YOLO took 1.160394 seconds
+person: 0.9988
+[INFO] YOLO took 1.081061 seconds
+person: 0.9983
+[INFO] YOLO took 1.173346 seconds
+person: 0.9994
+[INFO] YOLO took 1.110090 seconds
+person: 0.9997
+[INFO] YOLO took 1.148561 seconds
+person: 0.9993
+[INFO] YOLO took 1.224518 seconds
+person: 0.9897
+[INFO] YOLO took 1.058243 seconds
+person: 0.9996
+person: 0.9993
+person: 0.9895
+person: 0.7724
+person: 0.6910
+[INFO] YOLO took 1.188415 seconds
+person: 0.9968
+[INFO] YOLO took 1.086257 seconds
+person: 0.9995
+[INFO] YOLO took 1.179077 seconds
+person: 0.9811
+[INFO] YOLO took 1.068749 seconds
+person: 0.9992
+[INFO] YOLO took 1.217703 seconds
+person: 0.9999
+[INFO] YOLO took 1.165797 seconds
+person: 0.9953
+[INFO] YOLO took 1.094574 seconds
+person: 0.9988
+[INFO] YOLO took 1.125570 seconds
+person: 0.9959
+tie: 0.9856
+[INFO] YOLO took 1.123561 seconds
+person: 0.9977
+[INFO] YOLO took 1.087139 seconds
+person: 0.9544
+[INFO] YOLO took 1.232373 seconds
+person: 0.9997
+[INFO] YOLO took 1.167105 seconds
+person: 0.9938
+[INFO] YOLO took 1.022970 seconds
+person: 0.9937
+person: 0.9905
+[INFO] YOLO took 1.210930 seconds
+person: 0.9998
+[INFO] YOLO took 1.117241 seconds
+person: 0.9983
+[INFO] YOLO took 1.143893 seconds
+person: 0.9036
+[INFO] YOLO took 1.181328 seconds
+person: 0.9961
+[INFO] YOLO took 1.097555 seconds
+person: 0.9976
+person: 0.9965
+[INFO] YOLO took 1.203843 seconds
+person: 0.9954
+person: 0.9732
+[INFO] YOLO took 1.096749 seconds
+person: 0.9944
+cell phone: 0.9494
+[INFO] YOLO took 1.081950 seconds
+person: 0.9888
+[INFO] YOLO took 1.169886 seconds
+person: 0.9368
+[INFO] YOLO took 1.181572 seconds
+person: 0.9142
+[INFO] YOLO took 1.152420 seconds
+person: 0.9954
+[INFO] YOLO took 1.122698 seconds
+person: 0.9820
+[INFO] YOLO took 1.115825 seconds
+person: 0.9971
+[INFO] YOLO took 1.249177 seconds
+person: 0.9897
+[INFO] YOLO took 1.135979 seconds
+person: 0.9968
+[INFO] YOLO took 1.075151 seconds
+person: 0.9995
+[INFO] YOLO took 1.123114 seconds
+person: 0.9999
+[INFO] YOLO took 1.153713 seconds
+person: 0.9998
+tie: 0.5324
+[INFO] YOLO took 1.123585 seconds
+person: 0.9917
+[INFO] YOLO took 1.134775 seconds
+person: 0.9988
+[INFO] YOLO took 1.113635 seconds
+person: 0.9905
+[INFO] YOLO took 1.168712 seconds
+person: 0.9999
+person: 0.9141
+person: 0.5423
+[INFO] YOLO took 1.076803 seconds
+person: 0.9989
+[INFO] YOLO took 1.261507 seconds
+person: 0.9963
+[INFO] YOLO took 1.180427 seconds
+person: 0.9995
+[INFO] YOLO took 1.045336 seconds
+tie: 0.9686
+person: 0.7172
+[INFO] YOLO took 1.238419 seconds
+person: 0.9968
+[INFO] YOLO took 1.162480 seconds
+person: 0.9998
+[INFO] YOLO took 1.112511 seconds
+person: 0.9995
+[INFO] YOLO took 1.367426 seconds
+person: 0.9999
+tie: 0.6221
+[INFO] YOLO took 1.061108 seconds
+person: 0.9880
+[INFO] YOLO took 1.409736 seconds
+person: 0.9996
+[INFO] YOLO took 1.067286 seconds
+person: 0.9999
+person: 0.7909
+[INFO] YOLO took 1.172614 seconds
+person: 0.9974
+[INFO] YOLO took 1.048450 seconds
+person: 0.9993
+[INFO] YOLO took 1.166361 seconds
+person: 0.9897
+[INFO] YOLO took 1.113526 seconds
+person: 0.9807
+[INFO] YOLO took 1.158702 seconds
+person: 0.9991
+[INFO] YOLO took 1.170142 seconds
+person: 0.9994
+[INFO] YOLO took 1.112800 seconds
+person: 0.9973
+[INFO] YOLO took 1.090798 seconds
+person: 0.9992
+[INFO] YOLO took 1.226791 seconds
+person: 0.9999
+[INFO] YOLO took 1.158918 seconds
+person: 0.9985
+[INFO] YOLO took 1.069003 seconds
+car: 0.9718
+person: 0.9538
+bus: 0.8472
+car: 0.7536
+[INFO] YOLO took 1.153728 seconds
+person: 0.9897
+[INFO] YOLO took 1.163734 seconds
+person: 0.9995
+person: 0.9995
+person: 0.9940
+[INFO] YOLO took 1.091366 seconds
+person: 0.9981
+[INFO] YOLO took 1.192917 seconds
+person: 0.9682
+[INFO] YOLO took 1.157269 seconds
+person: 0.9994
+[INFO] YOLO took 1.060712 seconds
+person: 0.9923
+[INFO] YOLO took 1.168339 seconds
+person: 0.9981
+[INFO] YOLO took 1.092135 seconds
+person: 0.9928
+[INFO] YOLO took 1.110584 seconds
+person: 0.9991
+[INFO] YOLO took 1.095243 seconds
+person: 0.9995
+[INFO] YOLO took 1.126150 seconds
+person: 0.9996
+[INFO] YOLO took 1.077749 seconds
+person: 0.9980
+[INFO] YOLO took 1.226098 seconds
+person: 0.9945
+[INFO] YOLO took 1.115719 seconds
+person: 0.9967
+[INFO] YOLO took 1.144413 seconds
+person: 0.9990
+[INFO] YOLO took 1.078987 seconds
+person: 0.9979
+[INFO] YOLO took 1.187071 seconds
+person: 0.9964
+[INFO] YOLO took 1.106053 seconds
+person: 0.9939
+[INFO] YOLO took 1.257146 seconds
+person: 0.9997
+[INFO] YOLO took 1.144974 seconds
+person: 0.7690
+person: 0.6425
+[INFO] YOLO took 1.164609 seconds
+person: 0.9871
+[INFO] YOLO took 1.071114 seconds
+person: 0.9984
+[INFO] YOLO took 1.221932 seconds
+person: 0.9996
+[INFO] YOLO took 1.128509 seconds
+person: 0.9996
+[INFO] YOLO took 1.140422 seconds
+person: 0.9943
+[INFO] YOLO took 1.075791 seconds
+person: 0.8365
+person: 0.8238
+[INFO] YOLO took 1.248303 seconds
+parking meter: 0.7247
+[INFO] YOLO took 1.181478 seconds
+person: 0.9994
+person: 0.9949
+person: 0.9826
+person: 0.6356
+[INFO] YOLO took 1.196841 seconds
+person: 0.9997
+[INFO] YOLO took 1.077924 seconds
+person: 0.9989
+person: 0.6033
+[INFO] YOLO took 1.179879 seconds
+person: 0.9999
+[INFO] YOLO took 1.120458 seconds
+person: 0.9998
+[INFO] YOLO took 1.176956 seconds
+person: 0.9681
+[INFO] YOLO took 1.192301 seconds
+person: 0.9998
+car: 0.9791
+car: 0.7289
+person: 0.6702
+car: 0.5564
+[INFO] YOLO took 1.177388 seconds
+person: 0.9998
+tie: 0.5324
+[INFO] YOLO took 1.116431 seconds
+person: 0.9995
+[INFO] YOLO took 1.120417 seconds
+person: 0.9888
+tie: 0.5809
+[INFO] YOLO took 1.177887 seconds
+person: 0.9968
+tie: 0.9955
+person: 0.9702
+[INFO] YOLO took 1.085840 seconds
+person: 0.9888
+[INFO] YOLO took 1.181486 seconds
+person: 0.9991
+[INFO] YOLO took 1.176645 seconds
+person: 0.9976
+[INFO] YOLO took 1.186969 seconds
+person: 0.9782
+[INFO] YOLO took 1.087005 seconds
+person: 0.9980
+horse: 0.6800
+[INFO] YOLO took 1.175836 seconds
+person: 0.9928
+[INFO] YOLO took 1.171751 seconds
+person: 0.9988
+person: 0.8884
+[INFO] YOLO took 1.134692 seconds
+person: 0.9682
+[INFO] YOLO took 1.056500 seconds
+person: 0.9999
+[INFO] YOLO took 1.133000 seconds
+person: 0.9995
+[INFO] YOLO took 1.138198 seconds
+person: 0.9896
+[INFO] YOLO took 1.172929 seconds
+person: 0.9824
+[INFO] YOLO took 1.139615 seconds
+person: 0.9725
+person: 0.9576
+person: 0.9362
+[INFO] YOLO took 1.103487 seconds
+person: 0.9957
+[INFO] YOLO took 1.205028 seconds
+person: 0.9997
+[INFO] YOLO took 1.178474 seconds
+person: 0.9996
+person: 0.9993
+person: 0.9895
+person: 0.7724
+person: 0.6910
+[INFO] YOLO took 1.067492 seconds
+person: 0.9995
+[INFO] YOLO took 1.140290 seconds
+person: 0.9999
+[INFO] YOLO took 1.093364 seconds
+person: 0.9999
+[INFO] YOLO took 1.161682 seconds
+person: 0.9998
+person: 0.9977
+person: 0.9651
+person: 0.6228
+[INFO] YOLO took 1.084638 seconds
+person: 0.9995
+[INFO] YOLO took 1.204316 seconds
+person: 0.9997
+[INFO] YOLO took 1.096041 seconds
+person: 0.8768
+[INFO] YOLO took 1.136677 seconds
+person: 0.9994
+[INFO] YOLO took 1.138099 seconds
+person: 0.9862
+[INFO] YOLO took 1.168440 seconds
+person: 0.9824
+[INFO] YOLO took 1.071526 seconds
+person: 1.0000
+[INFO] YOLO took 1.218343 seconds
+person: 0.9974
+[INFO] YOLO took 1.065609 seconds
+person: 0.9957
+[INFO] YOLO took 1.121638 seconds
+person: 0.9980
+[INFO] YOLO took 1.100433 seconds
+person: 0.9964
+[INFO] YOLO took 1.192902 seconds
+person: 0.9997
+[INFO] YOLO took 1.128967 seconds
+person: 0.9894
+[INFO] YOLO took 1.124033 seconds
+person: 0.8768
+[INFO] YOLO took 1.191024 seconds
+person: 0.9999
+person: 0.9993
+person: 0.9987
+car: 0.9876
+suitcase: 0.9510
+tie: 0.9455
+tie: 0.9262
+person: 0.8857
+handbag: 0.8816
+car: 0.7854
+person: 0.6798
+car: 0.5037
+[INFO] YOLO took 1.078031 seconds
+person: 0.9977
+[INFO] YOLO took 1.238831 seconds
+person: 0.9857
+person: 0.9845
+[INFO] YOLO took 1.059484 seconds
+person: 0.9985
+[INFO] YOLO took 1.137832 seconds
+person: 0.9768
+[INFO] YOLO took 1.179595 seconds
+person: 0.9990
+[INFO] YOLO took 1.104130 seconds
+person: 0.9995
+person: 0.9993
+umbrella: 0.9963
+person: 0.9951
+umbrella: 0.9937
+person: 0.9902
+car: 0.9823
+umbrella: 0.9601
+umbrella: 0.9469
+car: 0.6450
+bus: 0.5014
